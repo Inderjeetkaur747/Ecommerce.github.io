@@ -1,0 +1,59 @@
+*{
+margin:0;
+padding:0;
+}
+
+.body{
+
+background-color:#f1f3f4;
+font-family:sans-sarif;
+}
+
+
+
+.navbar-default{
+background-color:#31b0d5a3;
+}
+
+.search{
+     position:absolute;
+    bottom: -3px;
+    z-index: 999999;
+    right: 80px;
+    background-color: blue;
+    border: gray;
+height: 17%;
+}
+.form-control{
+width:50%;
+}
+.form-group{
+	margin-left:-15px;
+}
+.info{
+	border:2px solid transparent;
+}
+.fix-music {
+    position: absolute;
+    bottom: 20px;
+    z-index: 999999;
+    right: 37px;
+background-color: black;
+    border: gray;
+
+}
+
+.footer-one{
+background-color:black;
+color:white;
+
+}
+.footer-two{
+background-color:black;
+color:white;
+border-top:1px solid gray;
+padding:10px;
+}
+.foot{
+float:right;
+}
